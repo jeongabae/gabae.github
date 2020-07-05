@@ -1,3 +1,27 @@
+# GaBae Jeon
+
+### Welcome https://github.com/jeongabae
+
+## Profile
+   - 학생
+ 
+## Link
+   - github     : https://github.com/jeongabae
+   - email      : gabea52@yonsei.ac.kr
+   
+## Education
+   - 연세대학교(미래캠) 컴퓨터정보통신공학부 재학 (2020.03 ~ 현재)
+
+
+## Information Technology Skills
+
+**Programming Languages**
+  * Java
+  * C
+  
+**Development Environments**
+  * OS    : Mac , Windows
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jeongabae/gabae.github/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
